@@ -1,0 +1,1 @@
+<div id="footer">Copyright @ Fast2way All right reserved.</div>
